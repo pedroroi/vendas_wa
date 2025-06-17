@@ -1,2 +1,6 @@
-# vendas_wa
-Prática 1 de Git+GitHub no WebAcademy: criando um portal de vendas em 4 passos
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutorial on...
+
+This repository is built step by step in tutorial
+
